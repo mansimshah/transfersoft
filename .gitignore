@@ -19,3 +19,5 @@
 # Ignore Sublime Text workspace files
 .idea
 .idea/*.xml
+
+.DS_Store
